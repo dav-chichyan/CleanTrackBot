@@ -112,8 +112,6 @@ Feel free to open an issue or submit a pull request.
 
 
 ## Contact
-
-Created by [David Chichyan](https://github.com/Chicho-byte)  
 Questions? Open an issue or contact via Telegram!
 
 
