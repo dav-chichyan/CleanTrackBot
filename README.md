@@ -95,6 +95,10 @@ The bot uses Telegram webhooks for real-time updates and PostgreSQL for robust o
 
 ---
 
+## Engagement
+
+TG: @MaqoorDryCleaning_bot
+
 ## Configuration
 
 All sensitive information (API tokens, DB credentials, etc.) should be stored in `application.properties`, which is **excluded from version control** for security.  
